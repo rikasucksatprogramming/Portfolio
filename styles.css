@@ -1,0 +1,54 @@
+.button {
+    font-size: 48px;
+    padding: 150px;
+}
+
+.navbar {
+    background-color: powderblue;
+    opacity: 100%;
+    position: relative;
+    bottom: 10px;
+    
+}
+
+body {
+    background-image: url("Nebula.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.introduction {
+    font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: linear-gradient(180deg, #9883EC 0%, rgba(224, 217, 254, 0.05) 99.99%, rgba(152, 131, 236, 0.00) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    top: 240px;
+}
+
+.rectangle {
+    width: 558px;
+    height: 1000px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #B2B7E5 0%, rgba(178, 183, 229, 0.00) 100%);
+    position: relative;
+    left: 1280px;
+    bottom: 300px;
+}
+
+.About {
+    color: #FFF;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
